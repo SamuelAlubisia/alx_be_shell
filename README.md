@@ -1,1 +1,1 @@
-Scripting files/changing permissions
+Scripting files/changing permissions.
